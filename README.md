@@ -5,31 +5,41 @@ Quem sou eu?
 
 Você pode ver meus apps que estão publicados na Google Play logo abaixo:
 
-link...
-imagens
-link
-imagens
-
+Baixe o app 😄
+====link
 
 <p>Partituras e cia, é um app para músicos que buscam partituras na internet, eu o desenvolvi para usar associado a minha pequena empresa de editoração de partituras.
 Nesse app, o usuário pode pesquisar e baixar suas partituras para seu celular, assim como visualizar e deixar sugestões de músicas que ele gostaria que estivessem disponíveis no app.</p>
 
 <p>
-<img src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15.jpeg" width = "200" heigth = "600"/>
-  <img src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(4).jpeg" width = "200" heigth = "600"/>
-  <img src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(3).jpeg" width = "200" heigth = "600"/>
-  <img src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(2).jpeg" width = "200" heigth = "600"/>
-  <img src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(1).jpeg" width = "200" heigth = "600"/>
+  <img src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15.jpeg" width = "260" heigth = "700"/>
+  <img src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(4).jpeg" width = "260" heigth = "700"/>
+  <img src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(3).jpeg" width = "260" heigth = "700"/>
+  <img src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(2).jpeg" width = "260" heigth = "700"/>
+  <img src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(1).jpeg" width = "260" heigth = "700"/>
   
 <p/>
 
-### Tecnologias utilizadas
-<ul>
-<li>Android Studio</li>
-</ul>
+### Tecnologias aplicadas
+**Android Studio**
+* SQLite para dados offline.
+* Arquitetura MVP
+* Navigation Drawer
+* Shapes
+
+**Java**
+* Arrays
+* Lists
+* Manipulação de strings
+* Callbacks
+
+**Firebase**
+* Auth
+* Database
+* Firestore
 
 
-<p>Com a experiência de músico tanto como instrumentista de grupos quanto dando aulas pude adquirir boas habilidades que serão úteis na área de tecnologia.
+<p>Com a experiência de músico tanto como instrumentista de grupos, quanto dando aulas pude adquirir boas habilidades que serão úteis na área de tecnologia.
 </p>
 <h4>
 Softskills
@@ -37,7 +47,7 @@ Softskills
 
 <li>Trabalhar em equipe</li><li>Resolver problemas em grupo</li><li>Organização de tarefas</li><li>Disciplina</li>
 
-
+------------
 
 
 
