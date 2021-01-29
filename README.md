@@ -15,7 +15,7 @@ imagens
 Nesse app, o usuário pode pesquisar e baixar suas partituras para seu celular, assim como visualizar e deixar sugestões de músicas que ele gostaria que estivessem disponíveis no app.</p>
 
 ![](https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15.jpeg | width = 200)
-
+<img src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15.jpeg" width = "100" heigth = "300"/>
 ### Tecnologias utilizadas
 <ul>
 <li>Android Studio</li>
