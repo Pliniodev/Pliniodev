@@ -1,4 +1,4 @@
-### Bem vindo! 😄
+# Bem vindo! 😄
 
 Quem sou eu?
 <p>Me chamo Plínio, e estou migrando para a área de tecnologia. Atualmente estou focado no desenvolvimento android nativo.</p>
@@ -13,6 +13,14 @@ imagens
 
 <p>Partituras e cia, é um app para músicos que buscam partituras na internet, eu o desenvolvi para usar associado a minha pequena empresa de editoração de partituras.
 Nesse app, o usuário pode pesquisar e baixar suas partituras para seu celular, assim como visualizar e deixar sugestões de músicas que ele gostaria que estivessem disponíveis no app.</p>
+
+![](https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15.jpeg | width = 200)
+
+### Tecnologias utilizadas
+<ul>
+<li>Android Studio</li>
+</ul>
+
 
 <p>Com a experiência de músico tanto como instrumentista de grupos quanto dando aulas pude adquirir boas habilidades que serão úteis na área de tecnologia.
 </p>
