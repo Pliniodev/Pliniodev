@@ -3,6 +3,10 @@
 Quem sou eu?
 <p>Me chamo Plínio, e estou migrando para a área de tecnologia. Atualmente estou focado no desenvolvimento android nativo.</p>
 
+### Meu Currículo
+**Arquivo Word**
+
+
 Você pode ver meus apps que estão publicados na Google Play logo abaixo:
 
 Baixe o app 😄
@@ -39,12 +43,12 @@ Nesse app, o usuário pode pesquisar e baixar suas partituras para seu celular, 
 * Firestore
 
 
-<p>Com a experiência de músico tanto como instrumentista de grupos, quanto dando aulas pude adquirir boas habilidades que serão úteis na área de tecnologia.
-</p>
+
 <h4>
 Softskills
 </h4>
-
+<p>Com a experiência de músico, tanto como instrumentista de grupos, quanto dando aulas, pude adquirir boas habilidades que serão úteis na área de tecnologia.
+</p>
 <li>Trabalhar em equipe</li><li>Resolver problemas em grupo</li><li>Organização de tarefas</li><li>Disciplina</li>
 
 ------------
