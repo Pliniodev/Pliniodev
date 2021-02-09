@@ -9,12 +9,22 @@ Quem sou eu?
 
 Você pode ver meus apps que estão publicados na Google Play logo abaixo:
 
-App Android Partituras e Cia 😄
-https://bit.ly/partituras-e-cia-app
+### Partituras e Cia - App Android Nativo
+Minha própria startup<br>
+**Link:** https://bit.ly/partituras-e-cia-app<br>
+**Código:** Ainda privado por questões de segurança
 
-Site para empresa de lavagem de estofados (Empresa de um familiar) apenas para prática.
-https://emanuel-lavagemaseco.web.app/
+### Site para empresa de lavagem de estofados 
+(Empresa de um familiar) apenas para prática.<br>
+**Link:** https://emanuel-lavagemaseco.web.app/<br>
+**Código:** https://github.com/Pliniodev/Lavagemaseco
 
+### Todo-List
+Simples todo-list para praticar um pouco de firebase e Javascript
+**Link:** <br>
+**Código:** <br>
+
+# Partituras e Cia - resumo - App Android Nativo
 <p>Partituras e cia, é um app para músicos que buscam partituras na internet, eu o desenvolvi para usar associado a minha pequena empresa de editoração de partituras.
 Nesse app, o usuário pode pesquisar e baixar suas partituras para seu celular, assim como visualizar e deixar sugestões de músicas que ele gostaria que estivessem disponíveis no app.</p>
 
@@ -43,6 +53,7 @@ Nesse app, o usuário pode pesquisar e baixar suas partituras para seu celular, 
 * Auth
 * Database
 * Firestore
+* Rules
 
 
 
