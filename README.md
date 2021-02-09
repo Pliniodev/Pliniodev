@@ -9,8 +9,11 @@ Quem sou eu?
 
 Você pode ver meus apps que estão publicados na Google Play logo abaixo:
 
-Baixe o app 😄
-====link
+App Android Partituras e Cia 😄
+https://bit.ly/partituras-e-cia-app
+
+Site para empresa de lavagem de estofados (Empresa de um familiar) apenas para prática.
+https://emanuel-lavagemaseco.web.app/
 
 <p>Partituras e cia, é um app para músicos que buscam partituras na internet, eu o desenvolvi para usar associado a minha pequena empresa de editoração de partituras.
 Nesse app, o usuário pode pesquisar e baixar suas partituras para seu celular, assim como visualizar e deixar sugestões de músicas que ele gostaria que estivessem disponíveis no app.</p>
