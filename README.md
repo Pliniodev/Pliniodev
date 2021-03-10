@@ -8,7 +8,7 @@ Quem sou eu?
 https://github.com/Pliniodev/Pliniodev/blob/main/Curr%C3%ADculo%20tecnologia%20Pl%C3%ADnio.doc
 
 
-Você pode ver meus apps que estão publicados na Google Play logo abaixo:
+Detalhes sobre meus projetos logo abaixo:
 
 ### Partituras e Cia - App Android Nativo
 Minha própria startup<br>
