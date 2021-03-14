@@ -23,7 +23,7 @@ Minha própria startup<br>
 ### Todo-List
 Simples todo-list para praticar um pouco de firebase e Javascript
 **Link:** <br>
-**Código:** <br>
+**Código:** https://github.com/Pliniodev/TodoList <br>
 
 # Partituras e Cia - resumo - App Android Nativo
 <p>Partituras e cia, é um app para músicos que buscam partituras na internet, eu o desenvolvi para usar associado a minha pequena empresa de editoração de partituras.
