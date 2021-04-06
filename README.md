@@ -76,14 +76,13 @@ Nesse app, o usuário pode pesquisar e baixar suas partituras para seu celular, 
 * Rules
 
 
-
-<h4>
+------------------------
+<h2>
 Softskills
-</h4>
+</h2>
 <p>Com a experiência de músico, tanto como instrumentista de grupos, quanto dando aulas, pude adquirir boas habilidades que serão úteis na área de tecnologia.
 </p>
 <li>Trabalhar em equipe</li><li>Resolver problemas em grupo</li><li>Organização de tarefas</li><li>Disciplina</li>
-
 ------------
 
 
