@@ -10,6 +10,7 @@ https://github.com/Pliniodev/Pliniodev/blob/main/Curr%C3%ADculo%20tecnologia%20P
 **Arquivo Word**
 https://github.com/Pliniodev/Pliniodev/blob/main/Curr%C3%ADculo%20tecnologia%20Pl%C3%ADnio.doc
 
+------------
 
 Detalhes sobre meus projetos logo abaixo:
 
