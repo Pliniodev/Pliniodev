@@ -1,4 +1,6 @@
 # Bem vindo! 😄
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pliniodev&show_icons=true&theme=radical)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pliniodev)](https://github.com/anuraghazra/github-readme-stats)
 
 Quem sou eu?
 <p>Me chamo Plínio, e estou migrando para a área de tecnologia. Atualmente estou focado no desenvolvimento android nativo.</p>
