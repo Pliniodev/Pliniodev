@@ -1,6 +1,11 @@
 # Bem vindo! 😄
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pliniodev&show_icons=true&theme=radical)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pliniodev)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pliniodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliniodev&theme=dracula"/>
+<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pliniodev)](https://github.com/anuraghazra/github-readme-stats)-->
+<div>
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pliniodev)](https://github.com/anuraghazra/github-readme-stats)-->
+
 
 Quem sou eu?
 <p>Me chamo Plínio, e estou migrando para a área de tecnologia. Atualmente estou focado no desenvolvimento android nativo.</p>
