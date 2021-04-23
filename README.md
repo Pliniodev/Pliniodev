@@ -13,7 +13,7 @@ Bem vindo! 😄
 
 
 Quem sou eu?
-<p>Me chamo Plínio, e sou <b>desenvolvedor android nativo. Com conhecimentos em:</b> </p> <br>
+<p>Me chamo Plínio, e sou <b>desenvolvedor android nativo.</b> Com conhecimentos em: </p> <br>
 
 **Java | Kotlin | MVVM | MVP | Retrofit | Koin | Coroutines | Room | SQLite | Firebase**
 
