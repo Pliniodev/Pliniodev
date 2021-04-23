@@ -20,33 +20,33 @@ Detalhes sobre meus projetos logo abaixo:
 
 ### Partituras e Cia - App Android Nativo
 Minha própria startup<br>
-[**Link:**](https://bit.ly/partituras-e-cia-app) <br>
-**Repositório:** Ainda privado por questões de segurança
+[**Link**](https://bit.ly/partituras-e-cia-app) <br>
+**Repositório** Ainda privado por questões de segurança
 []()
 ------------
 
 ### Chuck Norris Facts - Retrofit, Coroutines,Koin, MVVM
-<img height="300em" src="https://github.com/Pliniodev/Pliniodev/blob/main/Screenshot_20210422_214854.png"/>
-[**Link:**](https://bit.ly/partituras-e-cia-app) <br>
-[**Repositório:**](https://github.com/Pliniodev/Chuck_Norris_Facts) 
+<img height="300em" src="https://github.com/Pliniodev/Pliniodev/blob/main/Screenshot_20210422_214854.png"/><br>
+[**Link**](https://bit.ly/partituras-e-cia-app) <br>
+[**Repositório**](https://github.com/Pliniodev/Chuck_Norris_Facts) 
 
 ------------
 
 ### Controle financeiro pessoal - App Android Nativo
-[**Repositório:**](https://github.com/Pliniodev/Controle-financeiro-pessoal) 
+[**Repositório**](https://github.com/Pliniodev/Controle-financeiro-pessoal) 
 
 ------------
 
 ### Site para empresa de lavagem de estofados 
 (Empresa de um familiar) apenas para prática.<br>
-[**Link:**](https://emanuel-lavagemaseco.web.app/) <br>
-[**Repositório:**](https://github.com/Pliniodev/Lavagemaseco) 
+[**Link**](https://emanuel-lavagemaseco.web.app/) <br>
+[**Repositório**](https://github.com/Pliniodev/Lavagemaseco) 
 
 ------------
 
 ### Todo-List
 Simples todo-list para praticar um pouco de firebase e Javascript
-[**Repositório:**](https://github.com/Pliniodev/TodoList)  
+[**Repositório**](https://github.com/Pliniodev/TodoList)  
 
 ------------
 ------------
