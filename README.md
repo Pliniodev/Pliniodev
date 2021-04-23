@@ -19,36 +19,35 @@ Quem sou eu?
 [**Linkedin**](www.linkedin.com/in/plinio-dev-android-junior)
 
 ------------
+<h2 align="center">Detalhes sobre meus projetos logo abaixo:</h2>
 
-Detalhes sobre meus projetos logo abaixo:
-
-### Partituras e Cia - App Android Nativo
+<h2 align="center">Partituras e Cia - App Android Nativo
 Minha própria startup <br>
 [**Link**](https://bit.ly/partituras-e-cia-app) <br>
 **Repositório** Ainda privado por questões de segurança
 
 ------------
 
-### Chuck Norris Facts - Retrofit, Coroutines,Koin, MVVM
+<h2 align="center">Chuck Norris Facts - Retrofit, Coroutines,Koin, MVVM</h2>
 <img height="300em" src="https://github.com/Pliniodev/Pliniodev/blob/main/Screenshot_20210422_214854.png"/><br>
 [**Link**](https://bit.ly/partituras-e-cia-app) <br>
 [**Repositório**](https://github.com/Pliniodev/Chuck_Norris_Facts) 
 
 ------------
 
-### Controle financeiro pessoal - App Android Nativo
+<h2 align="center">Controle financeiro pessoal - App Android Nativo</h2>
 [**Repositório**](https://github.com/Pliniodev/Controle-financeiro-pessoal) 
 
 ------------
 
-### Site para empresa de lavagem de estofados 
+<h2 align="center">Site para empresa de lavagem de estofados</h2>
 (Empresa de um familiar) apenas para prática.<br>
 [**Link**](https://emanuel-lavagemaseco.web.app/) <br>
 [**Repositório**](https://github.com/Pliniodev/Lavagemaseco) 
 
 ------------
 
-### Todo-List
+<h2 align="center">Todo-List</h2>
 Simples todo-list para praticar um pouco de firebase e Javascript <br>
 [**Repositório**](https://github.com/Pliniodev/TodoList)  
 
