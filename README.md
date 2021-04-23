@@ -19,10 +19,13 @@ Quem sou eu?
 [**Linkedin**](www.linkedin.com/in/plinio-dev-android-junior)
 
 ------------
+
 <h2 align="center">Detalhes sobre meus projetos logo abaixo:</h2>
 
-<h2 align="center">Partituras e Cia - App Android Nativo
-Minha própria startup <br>
+------------
+
+<h2 align="center">Partituras e Cia - App Android Nativo</h2>
+Minha própria startup<br>
 [**Link**](https://bit.ly/partituras-e-cia-app) <br>
 **Repositório** Ainda privado por questões de segurança
 
