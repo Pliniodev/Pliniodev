@@ -13,7 +13,11 @@ Quem sou eu?
 ### Meu Currículo
 [{**Arquivo em PDF**}](https://github.com/Pliniodev/Pliniodev/blob/main/Curr%C3%ADculo%20tecnologia%20Pl%C3%ADnio.pdf) 
 [{**Arquivo Word**}](https://github.com/Pliniodev/Pliniodev/blob/main/Curr%C3%ADculo%20tecnologia%20Pl%C3%ADnio.doc) <br>
-[### Linkedin](www.linkedin.com/in/plinio-dev-android-junior)
+
+------------
+
+[**Linkedin**](www.linkedin.com/in/plinio-dev-android-junior)
+
 ------------
 
 Detalhes sobre meus projetos logo abaixo:
