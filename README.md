@@ -11,18 +11,18 @@ Quem sou eu?
 <p>Me chamo Plínio, e estou migrando para a área de tecnologia. Atualmente estou focado no desenvolvimento android nativo.</p>
 
 ### Meu Currículo
-[**Arquivo em PDF**](https://github.com/Pliniodev/Pliniodev/blob/main/Curr%C3%ADculo%20tecnologia%20Pl%C3%ADnio.pdf)
-[**Arquivo Word**](https://github.com/Pliniodev/Pliniodev/blob/main/Curr%C3%ADculo%20tecnologia%20Pl%C3%ADnio.doc)
-
+[{**Arquivo em PDF**}](https://github.com/Pliniodev/Pliniodev/blob/main/Curr%C3%ADculo%20tecnologia%20Pl%C3%ADnio.pdf) 
+[{**Arquivo Word**}](https://github.com/Pliniodev/Pliniodev/blob/main/Curr%C3%ADculo%20tecnologia%20Pl%C3%ADnio.doc) <br>
+[### Linkedin](www.linkedin.com/in/plinio-dev-android-junior)
 ------------
 
 Detalhes sobre meus projetos logo abaixo:
 
 ### Partituras e Cia - App Android Nativo
-Minha própria startup<br>
+Minha própria startup <br>
 [**Link**](https://bit.ly/partituras-e-cia-app) <br>
 **Repositório** Ainda privado por questões de segurança
-[]()
+
 ------------
 
 ### Chuck Norris Facts - Retrofit, Coroutines,Koin, MVVM
