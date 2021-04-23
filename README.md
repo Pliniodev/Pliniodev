@@ -49,7 +49,7 @@ Minha própria startup <br>
 ------------
 
 ### Todo-List
-Simples todo-list para praticar um pouco de firebase e Javascript
+Simples todo-list para praticar um pouco de firebase e Javascript <br>
 [**Repositório**](https://github.com/Pliniodev/TodoList)  
 
 ------------
@@ -62,10 +62,10 @@ Simples todo-list para praticar um pouco de firebase e Javascript
 Nesse app, o usuário pode pesquisar e baixar suas partituras para seu celular, assim como visualizar e deixar sugestões de músicas que ele gostaria que estivessem disponíveis no app.</p>
 
 <p>
-  <img src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15.jpeg" width = "160" heigth = "500"/>
-  <img src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(4).jpeg" width = "160" heigth = "500"/>
-  <img src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(3).jpeg" width = "160" heigth = "500"/>
-  <img src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(1).jpeg" width = "160" heigth = "500"/>
+  <img height="180em" src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15.jpeg" />
+  <img height="180em" src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(4).jpeg"/>
+  <img height="180em" src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(3).jpeg"/>
+  <img height="180em" src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(1).jpeg"/>
   
 <p/>
 
