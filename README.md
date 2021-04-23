@@ -1,18 +1,21 @@
 <h1 align="center">
 Bem vindo! 😄
 </h1>
+
 <p align="center">
+  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pliniodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliniodev&layout=compact&langs_count=8&theme=dracula&count_private=true"/>
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pliniodev)](https://github.com/anuraghazra/github-readme-stats)-->
+
 </p>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pliniodev)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 Quem sou eu?
-<p>Me chamo Plínio, e sou <b>desenvolvedor android nativo. Com conhecimentos em:</b></p><br>
+<p>Me chamo Plínio, e sou <b>desenvolvedor android nativo. Com conhecimentos em:</b> </p> <br>
 
-**Java** | **Kotlin** | **MVVM** | **MVP** | **Retrofit** | **Koin** | **Coroutines** | **Room** | **SQLite** | **Firebase**
+**Java | Kotlin | MVVM | MVP | Retrofit | Koin | Coroutines | Room | SQLite | Firebase**
 
 ### Meu Currículo
 [{**Arquivo em PDF**}](https://github.com/Pliniodev/Pliniodev/blob/main/Curr%C3%ADculo%20tecnologia%20Pl%C3%ADnio.pdf) 
@@ -24,12 +27,14 @@ Quem sou eu?
 
 ------------
 
-<h2 align="center">Detalhes sobre meus projetos logo abaixo:</h2>
+<h2 align="center"> Detalhes sobre meus projetos logo abaixo:</h2>
 
 ------------
 
 <h2 align="center">Partituras e Cia - App Android Nativo</h2>
+
 Minha própria startup<br>
+
 [**Link**](https://bit.ly/partituras-e-cia-app) <br>
 **Repositório** Ainda privado por questões de segurança
 
@@ -37,24 +42,28 @@ Minha própria startup<br>
 
 <h2 align="center">Chuck Norris Facts - Retrofit, Coroutines,Koin, MVVM</h2>
 <img height="300em" src="https://github.com/Pliniodev/Pliniodev/blob/main/Screenshot_20210422_214854.png"/><br>
+
 [**Link**](https://bit.ly/partituras-e-cia-app) <br>
 [**Repositório**](https://github.com/Pliniodev/Chuck_Norris_Facts) 
 
 ------------
 
 <h2 align="center">Controle financeiro pessoal - App Android Nativo</h2>
+
 [**Repositório**](https://github.com/Pliniodev/Controle-financeiro-pessoal) 
 
 ------------
 
 <h2 align="center">Site para empresa de lavagem de estofados</h2>
 (Empresa de um familiar) apenas para prática.<br>
+
 [**Link**](https://emanuel-lavagemaseco.web.app/) <br>
 [**Repositório**](https://github.com/Pliniodev/Lavagemaseco) 
 
 ------------
 
 <h2 align="center">Todo-List</h2>
+
 Simples todo-list para praticar um pouco de firebase e Javascript <br>
 [**Repositório**](https://github.com/Pliniodev/TodoList)  
 
