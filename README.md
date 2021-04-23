@@ -1,5 +1,5 @@
 <h1 align="center">
-# Bem vindo! 😄
+Bem vindo! 😄
 </h1>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pliniodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
