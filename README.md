@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
 # Bem vindo! 😄
-</p>
+</h1>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pliniodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliniodev&layout=compact&langs_count=8&theme=dracula&count_private=true"/>
@@ -10,7 +10,9 @@
 
 
 Quem sou eu?
-<p>Me chamo Plínio, e estou migrando para a área de tecnologia. Atualmente estou focado no desenvolvimento android nativo.</p>
+<p>Me chamo Plínio, e sou <b>desenvolvedor android nativo. Com conhecimentos em:</b></p><br>
+
+**Java** | **Kotlin** | **MVVM** | **MVP** | **Retrofit** | **Koin** | **Coroutines** | **Room** | **SQLite** | **Firebase**
 
 ### Meu Currículo
 [{**Arquivo em PDF**}](https://github.com/Pliniodev/Pliniodev/blob/main/Curr%C3%ADculo%20tecnologia%20Pl%C3%ADnio.pdf) 
