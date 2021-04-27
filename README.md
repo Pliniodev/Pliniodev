@@ -65,7 +65,7 @@ Nesse app, o usuário pode pesquisar e baixar suas partituras para seu celular, 
 
 ------------
 
-<h2 align="center">Chuck Norris Facts - Retrofit, Coroutines,Koin, MVVM</h2>
+<h2 align="center">Chuck Norris Facts - Retrofit, Coroutines, Koin, MVVM</h2>
 <img height="300em" src="https://github.com/Pliniodev/Pliniodev/blob/main/Screenshot_20210422_214854.png"/><br>
 
 [**Link**](https://bit.ly/partituras-e-cia-app) <br>
