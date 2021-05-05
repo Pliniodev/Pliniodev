@@ -37,7 +37,7 @@ Minha própria startup<br>
 <p>Partituras e cia, é um app para músicos que buscam partituras na internet, eu o desenvolvi para usar associado a minha pequena empresa de editoração de partituras.
 Nesse app, o usuário pode pesquisar e baixar suas partituras para seu celular, assim como visualizar e deixar sugestões de músicas que ele gostaria que estivessem disponíveis no app.</p>
 
-<p>
+<p align="center">
   <img height="400em" src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15.jpeg" />
   <img height="400em" src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(4).jpeg"/>
   <img height="400em" src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(3).jpeg"/>
