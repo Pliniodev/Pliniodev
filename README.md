@@ -25,7 +25,16 @@ Java | Kotlin | MVVM | MVP | Retrofit | Koin | Coroutines | Room | SQLite | Fire
 
 <h2 align="center"> Projetos </h2>
 
-------------
+
+***
+
+<h2 align="center">Projeto de estudos atual (em andamento)</h2>
+
+[Aplicativo multi módulos feito com outros desenvolvedores](https://github.com/Pliniodev/MultiModuleApp)
+
+
+***
+
 
 <h2 align="center">Partituras e Cia - Java, Firebase, SQLite, MVP</h2>
 
