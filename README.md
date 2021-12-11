@@ -32,6 +32,14 @@ Java | Kotlin | MVVM | MVP | Retrofit | Koin | Coroutines | Room | SQLite | Fire
 
 [Aplicativo multi módulos feito com outros desenvolvedores](https://github.com/Pliniodev/MultiModuleApp)
 
+- Tecnologias aplicadas
+    - Modularização de features
+    - Clean architecture
+    - MVVM
+    - Coroutines e RxJava
+    - Koin
+    - JetPack Compose - Em breve
+
 
 ***
 
