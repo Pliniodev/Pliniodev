@@ -13,7 +13,7 @@ Bem vindo! 😄
 
 <p align="center">
 Conhecimentos<br>  
-Java | Kotlin | MVVM | MVP | Retrofit | Koin | Coroutines | Room | SQLite | Firebase
+Kotlin | Java | MVVM | MVP | Retrofit | Koin | Coroutines | Room | SQLite | Firebase 
 </p>
 
 ### Meu Currículo e linkedin
