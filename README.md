@@ -1,5 +1,5 @@
 <h1 align="center">
-Bem vindo! 😄
+Welcome! 😄
 </h1>
 
 <p align="center">
@@ -11,46 +11,48 @@ Bem vindo! 😄
 </p>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pliniodev)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<p align="center">
-Conhecimentos<br>  
-Kotlin | Java | MVVM | MVP | Retrofit | Koin | Coroutines | Room | SQLite | Firebase 
-</p>
-
-### Meu Currículo e linkedin
-[{**Arquivo em PDF**}](https://github.com/Pliniodev/Pliniodev/blob/main/Curr%C3%ADculo%20tecnologia%20Pl%C3%ADnio.pdf) 
-[{**Arquivo Word**}](https://github.com/Pliniodev/Pliniodev/blob/main/Curr%C3%ADculo%20tecnologia%20Pl%C3%ADnio.doc)<br> 
-
+<div align="center">
+<h2 align="center"> Knowledges </h2>
+  
+[![Kotlin](https://img.shields.io/badge/Kotlin-2ea44f)](https://)
+[![Java](https://img.shields.io/badge/Java-2ea44f)](https://)
+[![MVVM](https://img.shields.io/badge/MVVM-2ea44f)](https://)
+[![MVP](https://img.shields.io/badge/MVP-2ea44f)](https://)
+[![Retrofit](https://img.shields.io/badge/Retrofit-2ea44f)](https://)
+[![Koin](https://img.shields.io/badge/Koin-2ea44f)](https://)
+[![Kodein](https://img.shields.io/badge/Kodein-2ea44f)](https://)
+[![Coroutines](https://img.shields.io/badge/Coroutines-2ea44f)](https://)
+[![Room](https://img.shields.io/badge/Room-2ea44f)](https://)
+[![SQLite](https://img.shields.io/badge/SQLite-2ea44f)](https://)
+[![Firebase](https://img.shields.io/badge/Firebase-2ea44f)](https://)
+   
+</div>
 
 ------------
 
-<h2 align="center"> Projetos </h2>
+<h2 align="center"> Projects </h2>
 
-
+<div align="center">
 ***
 
-<h2 align="center">Projeto de estudos atual (em andamento)</h2>
+<h2 align="center">Actual multimodule study project (in progress)</h2>
 
-[Aplicativo multi módulos feito com outros desenvolvedores](https://github.com/Pliniodev/MultiModuleApp)
+[Colab multiModule app](https://github.com/Pliniodev/MultiModuleApp)
 
-- Tecnologias aplicadas
-    - Modularização de features
-    - Clean architecture
-    - MVVM
-    - Coroutines e RxJava
-    - Koin
-    - JetPack Compose - Em breve
-
+[![Generic badge](https://img.shields.io/badge/MultiModule-Yes-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/CleanArchitecture-Yes-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/MVVM-Yes-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Coroutines-Yes-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Koin-Yes-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/JetPackCompose-Yes-<COLOR>.svg)](https://shields.io/)
 
 ***
+</div>
 
+<h2 align="center">Partituras e Cia</h2>
 
-<h2 align="center">Partituras e Cia - Java, Firebase, SQLite, MVP</h2>
-
-[**Link**](https://bit.ly/partituras-e-cia-app) <br>
-**Repositório** Ainda privado por questões de segurança
-
-<p>Partituras e cia, é um app para músicos que buscam partituras na internet, eu o desenvolvi para usar associado a minha pequena empresa de editoração de partituras.
-Nesse app, o usuário pode pesquisar e baixar suas partituras para seu celular, assim como visualizar e deixar sugestões de músicas que ele gostaria que estivessem disponíveis no app.</p>
+[**Link for download**](https://bit.ly/partituras-e-cia-app) <br>
+Its  an app to musicians, to download some sheet music.
 
 <p align="center">
   <img height="400em" src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15.jpeg" />
@@ -59,17 +61,16 @@ Nesse app, o usuário pode pesquisar e baixar suas partituras para seu celular, 
   <img height="400em" src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(1).jpeg"/>
 <p/>
 
-### Tecnologias aplicadas
+### Tecnologies used at this app
 **Android Studio**
-* SQLite para dados offline.
-* Arquitetura MVP
+* SQLite
+* MVP Archtecture
 * Navigation Drawer
 * Shapes
 
 **Java**
 * Arrays
 * Lists
-* Manipulação de strings
 * Callbacks
 
 **Firebase**
@@ -80,48 +81,7 @@ Nesse app, o usuário pode pesquisar e baixar suas partituras para seu celular, 
 
 ------------
 
-<h2 align="center">Chuck Norris Facts - Retrofit, Coroutines, Koin, MVVM</h2>
-<img height="400em" src="https://github.com/Pliniodev/Pliniodev/blob/main/Screenshot_20210422_214854.png"/><br>
-
-[**Repositório**](https://github.com/Pliniodev/Chuck_Norris_Facts) 
-
-<p>App que consome uma api com piadas sobre o Chuck Norris, nesse app pude aplicar vários conceitos adquiridos em aulas. Produzido para mostrar meu nível técnico atual nas tecnologias aplicadas:</p>
-
-### Tecnologias aplicadas
-**Kotlin**
-* Arquitetura MVVM
-* Manipulação de strings
-* Generics
-* Sealed class
-
-**Koin**
-* Injeção de dependências
-* Single
-* Factory
-
-**Coroutines**
-* Chamadas assíncronas
-* Escopos
-* Dispatchers
-
-**Testes unitários**
-* JUnit
-* Mockito
-
-**Testes de UI**
-* Espresso
-
-**Layout**
-* Shapes
-* Material
-* Separação de responsabilidades 
-* Extração de resources
-* Uso de dimensions
-
-------------
-
-<h2 align="center">Site para empresa de lavagem de estofados</h2>
-(Empresa de um familiar) apenas para prática.<br>
+<h2 align="center">Sample site</h2>
 
 [**Link**](https://emanuel-lavagemaseco.web.app/) <br>
 [**Repositório**](https://github.com/Pliniodev/Lavagemaseco) 
@@ -130,22 +90,10 @@ Nesse app, o usuário pode pesquisar e baixar suas partituras para seu celular, 
 
 <h2 align="center">Todo-List</h2>
 
-Simples todo-list para praticar um pouco de firebase e Javascript <br>
+Simple todo-list to study firebase e Javascript <br>
 [**Repositório**](https://github.com/Pliniodev/TodoList)  
 
 ------------
-
-
-
-------------------------
-<h2>
-Softskills
-</h2>
-<p>Com a experiência de músico, tanto como instrumentista de grupos, quanto dando aulas, pude adquirir boas habilidades que serão úteis na área de tecnologia.
-</p>
-<li>Trabalhar em equipe</li><li>Resolver problemas em grupo</li><li>Organização de tarefas</li><li>Disciplina</li>
-------------
-
 
 
 <!--
