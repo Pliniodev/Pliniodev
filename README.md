@@ -46,8 +46,6 @@ Kotlin | Java | MVVM | MVP | Retrofit | Koin | Coroutines | Room | SQLite | Fire
 
 <h2 align="center">Partituras e Cia - Java, Firebase, SQLite, MVP</h2>
 
-Minha própria startup<br>
-
 [**Link**](https://bit.ly/partituras-e-cia-app) <br>
 **Repositório** Ainda privado por questões de segurança
 
@@ -119,12 +117,6 @@ Nesse app, o usuário pode pesquisar e baixar suas partituras para seu celular, 
 * Separação de responsabilidades 
 * Extração de resources
 * Uso de dimensions
-
-------------
-
-<h2 align="center">Controle financeiro pessoal - App Android Nativo</h2>
-
-[**Repositório**](https://github.com/Pliniodev/Controle-financeiro-pessoal) 
 
 ------------
 
