@@ -35,10 +35,8 @@ Welcome! 😄
 <div align="center">
 ***
 
-<h2 align="center">Actual multimodule study project (in progress)</h2>
-
-[Colab multiModule app](https://github.com/Pliniodev/MultiModuleApp)
-
+<h2 align="center"><a href="https://github.com/Pliniodev/MultiModuleApp">Actual multimodule study project (in progress)</a></h2>
+  
 [![Generic badge](https://img.shields.io/badge/MultiModule-Yes-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/CleanArchitecture-Yes-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/MVVM-Yes-<COLOR>.svg)](https://shields.io/)
@@ -46,12 +44,12 @@ Welcome! 😄
 [![Generic badge](https://img.shields.io/badge/Koin-Yes-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/JetPackCompose-Yes-<COLOR>.svg)](https://shields.io/)
 
+Its an project to study gradle, different archtectures, compose, dependency injection, retrofit and how consume several APIs, and other things.
+  
 ***
 </div>
+<h2 align="center"><a href="https://bit.ly/partituras-e-cia-app">Partituras e Cia</a></h2>
 
-<h2 align="center">Partituras e Cia</h2>
-
-[**Link for download**](https://bit.ly/partituras-e-cia-app) <br>
 Its  an app to musicians, to download some sheet music.
 
 <p align="center">
@@ -60,25 +58,22 @@ Its  an app to musicians, to download some sheet music.
   <img height="400em" src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(3).jpeg"/>
   <img height="400em" src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(1).jpeg"/>
 <p/>
-
+<div align="center">
+  
 ### Tecnologies used at this app
-**Android Studio**
-* SQLite
-* MVP Archtecture
-* Navigation Drawer
-* Shapes
-
-**Java**
-* Arrays
-* Lists
-* Callbacks
-
-**Firebase**
-* Auth
-* Database
-* Firestore
-* Rules
-
+[![Generic badge](https://img.shields.io/badge/SQLite-Yes-<COLOR>.svg)](https://shields.io/)
+  [![Generic badge](https://img.shields.io/badge/SQLite-Yes-<COLOR>.svg)](https://shields.io/)
+  [![Generic badge](https://img.shields.io/badge/MVP-Yes-<COLOR>.svg)](https://shields.io/)
+  [![Generic badge](https://img.shields.io/badge/NavigationDrawer-Yes-<COLOR>.svg)](https://shields.io/)
+  [![Generic badge](https://img.shields.io/badge/Shapes-Yes-<COLOR>.svg)](https://shields.io/)
+  [![Generic badge](https://img.shields.io/badge/Java-Yes-<COLOR>.svg)](https://shields.io/)
+  [![Generic badge](https://img.shields.io/badge/Arrays-Yes-<COLOR>.svg)](https://shields.io/)
+  [![Generic badge](https://img.shields.io/badge/Callbacks-Yes-<COLOR>.svg)](https://shields.io/)
+  [![Generic badge](https://img.shields.io/badge/Firebase-Yes-<COLOR>.svg)](https://shields.io/)
+  [![Generic badge](https://img.shields.io/badge/Firestore-Yes-<COLOR>.svg)](https://shields.io/)
+  
+</div>
+  
 ------------
 
 <h2 align="center">Sample site</h2>
