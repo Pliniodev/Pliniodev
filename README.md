@@ -72,7 +72,7 @@ Its an project to study gradle, different architectures, compose, dependency inj
   
 <h2 align="center"><a href="https://bit.ly/partituras-e-cia-app">Partituras e Cia</a></h2>
 
-Its  an app to musicians, to download some sheet music.
+That's my first app, its  an app to musicians, to download some sheet music.
 
 <p align="center">
   <img height="400em" src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15.jpeg" />
@@ -80,6 +80,7 @@ Its  an app to musicians, to download some sheet music.
   <img height="400em" src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(3).jpeg"/>
   <img height="400em" src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15%20(1).jpeg"/>
 <p/>
+  
 <div align="center">
   
 ### Tecnologies used at this app
