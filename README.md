@@ -28,14 +28,34 @@ Welcome! 😄
    
 </div>
 
-------------
-
 <h2 align="center"> Projects </h2>
 
-<div align="center">
-***
+------------
 
-<h2 align="center"><a href="https://github.com/Pliniodev/MultiModuleApp">Actual multimodule study project (in progress)</a></h2>
+<div align="center">
+
+<h2 align="center"><a href="https://github.com/Pliniodev/ComposeSimpleProject">Compose simple project</a></h2>
+    
+Its a simple project to fun with compose
+
+A simple preview of how the app is today
+  
+ <img height="600em" src="https://user-images.githubusercontent.com/50078639/172054859-569952a1-992c-4799-9f28-7d56c31fd2fb.gif" /> 
+  
+  [![Generic badge](https://img.shields.io/badge/Compose-Yes-<COLOR>.svg)](https://shields.io/)
+  [![Generic badge](https://img.shields.io/badge/VersionCatalogs-Yes-<COLOR>.svg)](https://shields.io/)
+  [![Generic badge](https://img.shields.io/badge/Voyager-Yes-<COLOR>.svg)](https://shields.io/)
+  [![Generic badge](https://img.shields.io/badge/Coroutines-Yes-<COLOR>.svg)](https://shields.io/)
+  [![Generic badge](https://img.shields.io/badge/Koin-Yes-<COLOR>.svg)](https://shields.io/)
+  [![Generic badge](https://img.shields.io/badge/-Yes-<COLOR>.svg)](https://shields.io/)
+  
+</div>
+
+------------
+
+<div align="center">
+
+<h2 align="center"><a href="https://github.com/Pliniodev/MultiModuleApp">Multimodule colab study project (in progress)</a></h2>
   
 [![Generic badge](https://img.shields.io/badge/MultiModule-Yes-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/CleanArchitecture-Yes-<COLOR>.svg)](https://shields.io/)
@@ -44,10 +64,12 @@ Welcome! 😄
 [![Generic badge](https://img.shields.io/badge/Koin-Yes-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/JetPackCompose-Yes-<COLOR>.svg)](https://shields.io/)
 
-Its an project to study gradle, different archtectures, compose, dependency injection, retrofit and how consume several APIs, and other things.
+Its an project to study gradle, different architectures, compose, dependency injection, retrofit and how consume several APIs, and other things.
   
-***
 </div>
+  
+  ------------
+  
 <h2 align="center"><a href="https://bit.ly/partituras-e-cia-app">Partituras e Cia</a></h2>
 
 Its  an app to musicians, to download some sheet music.
