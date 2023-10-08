@@ -11,6 +11,8 @@ Welcome! 😄
 </p>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pliniodev)](https://github.com/anuraghazra/github-readme-stats)-->
 
+<div align="center">
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/plinio-dev-android) 
 
@@ -28,7 +30,7 @@ Welcome! 😄
 [![SQLite](https://img.shields.io/badge/SQLite-2ea44f)](https://)
 [![Firebase](https://img.shields.io/badge/Firebase-2ea44f)](https://)
    
-
+</div>
 
 <h2 align="center"> Most recent Projects </h2>
 
