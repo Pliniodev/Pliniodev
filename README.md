@@ -4,20 +4,22 @@ Welcome! 😄
 
 <p align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pliniodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pliniodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliniodev&layout=compact&langs_count=8&theme=dracula&count_private=true"/>
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pliniodev)](https://github.com/anuraghazra/github-readme-stats)-->
 
 </p>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pliniodev)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<div align="center">
-<h2 align="center"> Knowledges </h2>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/plinio-dev-android) 
+
+# 💻 Tech Stack:
+
   
 [![Kotlin](https://img.shields.io/badge/Kotlin-2ea44f)](https://)
-[![Java](https://img.shields.io/badge/Java-2ea44f)](https://)
+[![Compose](https://img.shields.io/badge/Compose-2ea44f)](https://)
 [![MVVM](https://img.shields.io/badge/MVVM-2ea44f)](https://)
-[![MVP](https://img.shields.io/badge/MVP-2ea44f)](https://)
 [![Retrofit](https://img.shields.io/badge/Retrofit-2ea44f)](https://)
 [![Koin](https://img.shields.io/badge/Koin-2ea44f)](https://)
 [![Kodein](https://img.shields.io/badge/Kodein-2ea44f)](https://)
@@ -26,9 +28,26 @@ Welcome! 😄
 [![SQLite](https://img.shields.io/badge/SQLite-2ea44f)](https://)
 [![Firebase](https://img.shields.io/badge/Firebase-2ea44f)](https://)
    
-</div>
 
-<h2 align="center"> Projects </h2>
+
+<h2 align="center"> Most recent Projects </h2>
+
+------------
+
+<div align="center">
+
+<h2 align="center"><a href="https://github.com/Pliniodev/chords-diagram">Chords Diagram</a></h2>
+    
+A simple composable guitar chords diagram opensource lib
+
+<img width="300" alt="image" src="https://github.com/Pliniodev/chords-diagram/assets/50078639/39da72f5-9568-4a85-925e-1800fb67f1a7">
+
+ [![Generic badge](https://img.shields.io/badge/Compose-Yes-<COLOR>.svg)](https://shields.io/)
+ [![Generic badge](https://img.shields.io/badge/Canvas-Yes-<COLOR>.svg)](https://shields.io/)
+ [![Generic badge](https://img.shields.io/badge/VersionCatalogs-Yes-<COLOR>.svg)](https://shields.io/)
+
+  
+</div>
 
 ------------
 
