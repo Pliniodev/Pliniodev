@@ -104,15 +104,6 @@ That's my first app, its  an app to musicians, to download some sheet music.
 [**Link**](https://emanuel-lavagemaseco.web.app/) <br>
 [**Repositório**](https://github.com/Pliniodev/Lavagemaseco) 
 
-------------
-
-<h2 align="center">Todo-List</h2>
-
-Simple todo-list to study firebase e Javascript <br>
-[**Repositório**](https://github.com/Pliniodev/TodoList)  
-
-------------
-
 
 <!--
 **Pliniodev/Pliniodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
