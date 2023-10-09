@@ -1,36 +1,33 @@
 <h1 align="center">
-Welcome! 😄
+Plinio Alencar - Android Software engineer - Since 2020
 </h1>
 
-<p align="center">
-  
+<!--<p align="center">-->
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pliniodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliniodev&layout=compact&langs_count=8&theme=dracula&count_private=true"/>
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pliniodev&layout=compact&langs_count=8&theme=dracula&count_private=true"/>-->
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pliniodev)](https://github.com/anuraghazra/github-readme-stats)-->
-
-</p>
+<!--</p>-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pliniodev)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<div align="center">
 
-## 🌐 Socials:
+
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/plinio-dev-android) 
 
 # 💻 Tech Stack:
 
-  
-[![Kotlin](https://img.shields.io/badge/Kotlin-2ea44f)](https://)
-[![Compose](https://img.shields.io/badge/Compose-2ea44f)](https://)
-[![MVVM](https://img.shields.io/badge/MVVM-2ea44f)](https://)
-[![Retrofit](https://img.shields.io/badge/Retrofit-2ea44f)](https://)
-[![Koin](https://img.shields.io/badge/Koin-2ea44f)](https://)
-[![Kodein](https://img.shields.io/badge/Kodein-2ea44f)](https://)
-[![Coroutines](https://img.shields.io/badge/Coroutines-2ea44f)](https://)
-[![Room](https://img.shields.io/badge/Room-2ea44f)](https://)
-[![SQLite](https://img.shields.io/badge/SQLite-2ea44f)](https://)
-[![Firebase](https://img.shields.io/badge/Firebase-2ea44f)](https://)
+✨Kotlin </br>
+✨JetPack Compose </br>
+✨MVVM/MVP </br>
+✨Unit tests/UI </br>
+✨Retrofit </br>
+✨Injection (Kodein, Koin) </br>
+✨CI/CD (Bitrise) </br>
+✨Coroutines </br>
+✨Solid </br>
+✨CleanArcquitecture </br>
    
-</div>
+
 
 <h2 align="center"> Most recent Projects </h2>
 
