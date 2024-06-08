@@ -42,6 +42,8 @@ Plinio Alencar - Android Software engineer - Since 2020
 <p align="center">An educational app that provides detailed, step-by-step guidance on how to make API requests, using a gradual and didactic approach.<p/>
 
 In Progress
+
+
 ------------
 
 <div align="center">
