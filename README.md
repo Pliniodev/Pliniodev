@@ -33,6 +33,17 @@ Plinio Alencar - Android Software engineer - Since 2020
 
 ------------
 
+
+
+<div align="center">
+
+<h2 align="center"><a href="https://github.com/Pliniodev/LearningApiRequest">Learning api request</a></h2>
+    
+<p align="center">An educational app that provides detailed, step-by-step guidance on how to make API requests, using a gradual and didactic approach.<p/>
+
+In Progress
+------------
+
 <div align="center">
 
 <h2 align="center"><a href="https://github.com/Pliniodev/firstAppIOS">IQuiz</a></h2>
