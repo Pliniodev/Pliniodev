@@ -18,6 +18,7 @@ Plinio Alencar - Android Software engineer - Since 2020
 
 ✨Kotlin </br>
 ✨JetPack Compose </br>
+✨Kotlin multiplatform </br>
 ✨MVVM/MVP </br>
 ✨Unit tests/UI </br>
 ✨Retrofit </br>
