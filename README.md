@@ -9,12 +9,29 @@ Plinio Alencar - Android Software engineer - Since 2020
 <!--</p>-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pliniodev)](https://github.com/anuraghazra/github-readme-stats)-->
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+   
+  <div>
+     Texto 1
+  </div>
+  
+  <div>
+     Texto 2
+  </div>
+  
+</div>
 
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/plinio-dev-android) 
 
 # 💻 Tech Stack:
+
+
+
+
+
+
 
 ✨Kotlin </br>
 ✨JetPack Compose </br>
