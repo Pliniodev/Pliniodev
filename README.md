@@ -9,29 +9,11 @@ Plinio Alencar - Android Software engineer - Since 2020
 <!--</p>-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pliniodev)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-   
-  <div>
-     Texto 1
-  </div>
-  
-  <div>
-     Texto 2
-  </div>
-  
-</div>
-
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/plinio-dev-android) 
 
-# 💻 Tech Stack:
-
-
-
-
-
-
+### 💻 Tech Stack:
 
 ✨Kotlin </br>
 ✨JetPack Compose </br>
@@ -45,7 +27,11 @@ Plinio Alencar - Android Software engineer - Since 2020
 ✨Solid </br>
 ✨CleanArchitecture </br>
    
+### :brain: Knowledge in
 
+✨Java
+✨Swift
+✨SwiftUi
 
 <h2 align="center"> Most recent Projects </h2>
 
@@ -152,7 +138,7 @@ Its an project to study gradle, different architectures, compose, dependency inj
   
 <h2 align="center"><a href="https://bit.ly/partituras-e-cia-app">Partituras e Cia</a></h2>
 
-That's my first app, its  an app to musicians, to download some sheet music.
+That's my first app, its  an app to musicians, to download some sheet music. Built in JAVA using MVP
 
 <p align="center">
   <img height="400em" src="https://github.com/Pliniodev/Pliniodev/blob/main/WhatsApp%20Image%202021-01-29%20at%2008.53.15.jpeg" />
@@ -164,12 +150,11 @@ That's my first app, its  an app to musicians, to download some sheet music.
 <div align="center">
   
 ### Tecnologies used at this app
-[![Generic badge](https://img.shields.io/badge/SQLite-Yes-<COLOR>.svg)](https://shields.io/)
+ [![Generic badge](https://img.shields.io/badge/Java-Yes-<COLOR>.svg)](https://shields.io/)
   [![Generic badge](https://img.shields.io/badge/SQLite-Yes-<COLOR>.svg)](https://shields.io/)
   [![Generic badge](https://img.shields.io/badge/MVP-Yes-<COLOR>.svg)](https://shields.io/)
   [![Generic badge](https://img.shields.io/badge/NavigationDrawer-Yes-<COLOR>.svg)](https://shields.io/)
   [![Generic badge](https://img.shields.io/badge/Shapes-Yes-<COLOR>.svg)](https://shields.io/)
-  [![Generic badge](https://img.shields.io/badge/Java-Yes-<COLOR>.svg)](https://shields.io/)
   [![Generic badge](https://img.shields.io/badge/Arrays-Yes-<COLOR>.svg)](https://shields.io/)
   [![Generic badge](https://img.shields.io/badge/Callbacks-Yes-<COLOR>.svg)](https://shields.io/)
   [![Generic badge](https://img.shields.io/badge/Firebase-Yes-<COLOR>.svg)](https://shields.io/)
