@@ -42,13 +42,11 @@ Plinio Alencar - Android Software engineer - Since 2020
     
 <p align="center">My sheet music download app, built using Kotlin Multiplatform<p/>
 
-[The repository is private, but you can follow the project's development here](https://github.com/users/Pliniodev/projects/1)
-
 <p align="center">
   <img height="400em" src="https://github.com/user-attachments/assets/6dc8574c-6734-40f5-a743-5d37de384911" />
 <p/>
 
-In Progress
+In Progress 
 
 
 ------------
